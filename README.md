@@ -52,4 +52,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 - Special thanks to the WordPress community for their continuous support and resources.
 
 ## Contact
-For any inquiries or support, please reach out via [https://github.com/SafeerAbbas624].
+For any inquiries or support, please reach out via [Contact](https://github.com/SafeerAbbas624).
