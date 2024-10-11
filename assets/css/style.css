@@ -1,0 +1,38 @@
+.custom-menu-widget {
+    display: flex;
+    background-color: #f8f8f8;
+}
+
+.custom-menu-widget ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.custom-menu-widget li {
+    position: relative;
+    padding: 10px 15px;
+}
+
+.custom-menu-widget li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.custom-menu-widget .submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    z-index: 1000;
+}
+
+.custom-menu-widget li:hover .submenu {
+    display: block;
+}
+
+.custom-menu-widget .submenu li {
+    width: 200px; /* Set a width for submenu items */
+}
